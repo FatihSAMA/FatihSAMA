@@ -6,7 +6,7 @@
 Hey there! I'm Fatih, a passionate frontend developer who loves coding and camping. I enjoy blending creativity with technology to build immersive web experiences.
 I also offer freelance services, helping businesses and individuals bring their ideas to life with modern web technologies. If you have a project in mind, feel free to reach out!
 
-### 🌐 Web Site
+### 🌐 Website
 Check out my work at: [fatihkabul.vercel.app](https://fatihkabul.vercel.app)
 
 ### 📲 Connect with Me
