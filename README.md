@@ -11,8 +11,8 @@ Check out my work at: [fatihkabul.vercel.app](https://fatihkabul.vercel.app)
 
 ### 📲 Connect with Me
 - **LinkedIn:** [Fatih Kabul](https://linkedin.com/in/fatihkabul)
-- **Twitter:** [@FatihSAMA6]([https://twitter.com/yourhandle](https://x.com/FatihSAMA6))
-- **Instagram:** [Fatih Kabul](https://www.instagram.com/fatih_kbl/)
+- **Twitter:** [@FatihSAMA6](https://x.com/FatihSAMA6)
+- **Instagram:** [@fatih_kbl](https://www.instagram.com/fatih_kbl/)
 - **GitHub:** [FatihSAMA](https://github.com/FatihSAMA)
 - **Behance:** [Fatih Kabul](https://www.instagram.com/fatih_kbl/)
 
